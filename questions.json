@@ -1,0 +1,92 @@
+[
+    {
+        "id": 0,
+        "question": "What is the capital of India?",
+        "options": ["Mumbai", "New Delhi", "Kolkata", "Chennai"],
+        "answer": "New Delhi"
+    },
+    {
+        "id": 1,
+        "question": "Which Indian festival is also known as the Festival of Lights?",
+        "options": ["Holi", "Diwali", "Eid", "Navratri"],
+        "answer": "Diwali"
+    },
+    {
+        "id": 2,
+        "question": "Who is known as the Father of the Nation in India?",
+        "options": ["Subhas Chandra Bose", "Mahatma Gandhi", "Jawaharlal Nehru", "Bhagat Singh"],
+        "answer": "Mahatma Gandhi"
+    },
+    {
+        "id": 3,
+        "question": "Which river is considered the holiest in India?",
+        "options": ["Yamuna", "Ganga", "Narmada", "Godavari"],
+        "answer": "Ganga"
+    },
+    {
+        "id": 4,
+        "question": "Who wrote the Indian National Anthem?",
+        "options": ["Rabindranath Tagore", "Bankim Chandra Chatterjee", "Sarojini Naidu", "Sri Aurobindo"],
+        "answer": "Rabindranath Tagore"
+    },
+    {
+        "id": 5,
+        "question": "Which is the largest state in India by area?",
+        "options": ["Uttar Pradesh", "Madhya Pradesh", "Rajasthan", "Maharashtra"],
+        "answer": "Rajasthan"
+    },
+    {
+        "id": 6,
+        "question": "Which monument is known as the symbol of love in India?",
+        "options": ["India Gate", "Taj Mahal", "Qutub Minar", "Charminar"],
+        "answer": "Taj Mahal"
+    },
+    {
+        "id": 7,
+        "question": "Who was the first Prime Minister of India?",
+        "options": ["Dr. B.R. Ambedkar", "Jawaharlal Nehru", "Lal Bahadur Shastri", "Indira Gandhi"],
+        "answer": "Jawaharlal Nehru"
+    },
+    {
+        "id": 8,
+        "question": "Which Indian state is known as the Land of Spices?",
+        "options": ["Kerala", "Tamil Nadu", "Andhra Pradesh", "Karnataka"],
+        "answer": "Kerala"
+    },
+    {
+        "id": 9,
+        "question": "What is the national animal of India?",
+        "options": ["Lion", "Elephant", "Tiger", "Peacock"],
+        "answer": "Tiger"
+    },
+    {
+        "id": 10,
+        "question": "Which Indian city is also known as the Silicon Valley of India?",
+        "options": ["Hyderabad", "Mumbai", "Bangalore", "Chennai"],
+        "answer": "Bangalore"
+    },
+    {
+        "id": 11,
+        "question": "Who was the first Indian woman to win a Nobel Prize?",
+        "options": ["Mother Teresa", "Indira Gandhi", "Sarojini Naidu", "Kiran Bedi"],
+        "answer": "Mother Teresa"
+    },
+    {
+        "id": 12,
+        "question": "Which Indian state is famous for its tea gardens?",
+        "options": ["Assam", "West Bengal", "Kerala", "Sikkim"],
+        "answer": "Assam"
+    },
+    {
+        "id": 13,
+        "question": "In which year did India gain independence?",
+        "options": ["1945", "1947", "1950", "1952"],
+        "answer": "1947"
+    },
+    {
+        "id": 14,
+        "question": "What is the national flower of India?",
+        "options": ["Rose", "Marigold", "Lotus", "Sunflower"],
+        "answer": "Lotus"
+    }
+]
