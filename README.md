@@ -79,7 +79,7 @@ Follow these steps to run the project on your local machine:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/quiz-website.git
+   git clone https://github.com/ShrihariKasar/quiz-website.git
    cd quiz-website
    ```
 
