@@ -3,6 +3,7 @@ import json
 
 app = Flask(__name__, static_folder='static')
 
+# Load questions from a JSON file
 def load_questions():
     with open('questions.json', 'r') as f:
         return json.load(f)
